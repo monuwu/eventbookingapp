@@ -139,6 +139,22 @@ Visit the deployed application: **[https://bookingappexe.netlify.app](https://bo
 
 ---
 
+## Screenshots
+
+### Event List Page
+![Event List Page](screenshots/event-list.png)
+*Browse events with search, filter, and sorting capabilities*
+
+### Event Details Page
+![Event Details Page](screenshots/event-details.png)
+*Detailed event information with booking functionality*
+
+### Booking Cart Page
+![Booking Cart Page](screenshots/booking-cart.png)
+*Manage selected events and view total amount*
+
+---
+
 ## Technical Highlights
 
 ### React Features Implemented
