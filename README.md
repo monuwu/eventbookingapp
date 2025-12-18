@@ -1,30 +1,28 @@
 # EventHub - Event Booking Web Application
 
-<div align="center">
-  <h3>🎉 Modern Event Discovery & Booking Platform</h3>
-  <p>A professional, responsive React.js web application for browsing and booking events</p>
-  
-  **🌐 Live Demo:** [https://bookingappexe.netlify.app](https://bookingappexe.netlify.app)
-</div>
+A professional, responsive React.js web application for browsing and booking events across multiple categories.
+
+**Live Demo:** [https://bookingappexe.netlify.app](https://bookingappexe.netlify.app)  
+**Source Code:** [https://github.com/monuwu/eventbookingapp](https://github.com/monuwu/eventbookingapp)
 
 ---
 
-## 🌟 Overview
+## Overview
 
-**EventHub** is a production-ready event booking web application built with React.js and Tailwind CSS. It provides a seamless user experience for discovering, viewing, and booking events across various categories including Music, Technology, Sports, Art, Food, and Entertainment.
+EventHub is a production-ready event booking web application built with React.js and Tailwind CSS. It provides a seamless user experience for discovering, viewing, and booking events across various categories including Music, Technology, Sports, Art, Food, and Entertainment.
 
 ### Key Features
 
-✨ **Modern UI/UX** - Clean, professional design with smooth animations  
-🎨 **Responsive Design** - Works perfectly on desktop, tablet, and mobile  
-🛒 **Smart Cart System** - Context API-based state management with localStorage persistence  
-🔍 **Advanced Filtering** - Search, sort, and filter events by multiple criteria  
-📱 **Mobile-First** - Optimized for all screen sizes  
-⚡ **Performance** - Fast loading with optimized code
+- **Modern UI/UX** - Clean, professional design with smooth animations
+- **Responsive Design** - Works perfectly on desktop, tablet, and mobile devices
+- **Smart Cart System** - Context API-based state management with localStorage persistence
+- **Advanced Filtering** - Search, sort, and filter events by multiple criteria
+- **Mobile-First Approach** - Optimized for all screen sizes
+- **Performance Optimized** - Fast loading with optimized code
 
 ---
 
-## ✨ Core Features
+## Core Features
 
 ### 1. Event List Page
 - Grid-based card layout with event information
@@ -57,7 +55,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React 18.2** - Modern React with Hooks
 - **React Router DOM 6.20** - Client-side routing
@@ -68,7 +66,7 @@
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 eventbookingapp/
@@ -98,7 +96,7 @@ eventbookingapp/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -125,7 +123,7 @@ eventbookingapp/
 
 ---
 
-## 📸 Live Demo
+## Live Demo
 
 Visit the deployed application: **[https://bookingappexe.netlify.app](https://bookingappexe.netlify.app)**
 
@@ -141,7 +139,7 @@ Visit the deployed application: **[https://bookingappexe.netlify.app](https://bo
 
 ---
 
-## 🎯 Technical Highlights
+## Technical Highlights
 
 ### React Features Implemented
 - Functional components with Hooks
@@ -166,7 +164,7 @@ Visit the deployed application: **[https://bookingappexe.netlify.app](https://bo
 
 ---
 
-## 🌐 Event Categories
+## Event Categories
 
 The application features events across 8 categories:
 - Music - Concerts, festivals, live performances
@@ -180,7 +178,7 @@ The application features events across 8 categories:
 
 ---
 
-## 💻 Code Quality
+## Code Quality
 
 ### Best Practices
 - Clean, maintainable code structure
@@ -198,7 +196,7 @@ The application features events across 8 categories:
 
 ---
 
-## 📱 Browser Support
+## Browser Support
 
 - Chrome (latest)
 - Firefox (latest)
@@ -208,7 +206,7 @@ The application features events across 8 categories:
 
 ---
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 This project demonstrates proficiency in:
 
@@ -222,7 +220,7 @@ This project demonstrates proficiency in:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Built as a React.js demonstration project showcasing modern web development practices and best practices.
 
@@ -230,13 +228,13 @@ Built as a React.js demonstration project showcasing modern web development prac
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available for educational purposes.
 
 ---
 
 <div align="center">
-  <p><strong>🌐 Live Demo:</strong> <a href="https://bookingappexe.netlify.app">https://bookingappexe.netlify.app</a></p>
-  <p>Built with React ⚛️ & Tailwind CSS 🎨</p>
+  <p><strong>Live Demo:</strong> <a href="https://bookingappexe.netlify.app">https://bookingappexe.netlify.app</a></p>
+  <p>Built with React & Tailwind CSS</p>
 </div>
